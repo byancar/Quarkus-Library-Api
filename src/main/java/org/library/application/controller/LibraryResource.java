@@ -1,4 +1,4 @@
-package org.library.controller;
+package org.library.application.controller;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

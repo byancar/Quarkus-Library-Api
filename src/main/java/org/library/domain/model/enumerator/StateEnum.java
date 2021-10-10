@@ -1,4 +1,4 @@
-package org.library.model.enumerator;
+package org.library.domain.model.enumerator;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
